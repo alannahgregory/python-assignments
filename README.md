@@ -1,4 +1,5 @@
 # Python Programming Assignments | Fundational concepts and problem-solving.
+# When building, think about what your app needs to keep track of and what should never change and why
 ## Completed Assignments
 
 
